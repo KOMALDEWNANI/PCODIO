@@ -7,7 +7,7 @@
 There is no app to aware girls and help them out with PCOD.
 
 ### About
-An Android Studio application made for She Hack hackathon.
+An Android Studio application made for SheHacks'21 hackathon.
 
 ### Features
 * Multi User Login
