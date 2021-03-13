@@ -10,8 +10,9 @@ There is no app to aware girls and help them out with PCOD.
 An Android Studio application made for She Hack hackathon.
 
 ### Features
-* Test
-* Exercise 
+* Multi User Login
+* PCOD Test
+* Exercise Assistance
 * Exercise Tracker
 * Periods Tracker
 * Doctor's Help
@@ -20,11 +21,9 @@ An Android Studio application made for She Hack hackathon.
 ## Tech Stack
 * __Development__
     - Android Studio
-    - Flutter
     - Firebase
 * __Design__
-  - Figma
-  - Photoshop
+  - Canva
 
 ## Screenshots
 ![inCollage_20201116_174306669](https://user-images.githubusercontent.com/54657980/101201537-eaa67c00-368d-11eb-8e2a-f4671ffa86f1.jpg)
