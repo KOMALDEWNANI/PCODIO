@@ -1,8 +1,5 @@
 # PCODIO
 
-### Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/AyushiPanth/count.svg)
-
 ## Problem Statement
 There is no app to aware girls and help them out with PCOD.
 
