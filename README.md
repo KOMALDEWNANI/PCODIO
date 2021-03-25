@@ -27,7 +27,3 @@ An Android Studio application made for SheHacks'21 hackathon.
 * It has scope for including online doctor consultation and online medicine delivery
 * A Chatbot for FAQ will soon be deployed to make things much more easier
 
-
-## Screenshots
-![inCollage_20201116_174306669](https://user-images.githubusercontent.com/54657980/101201537-eaa67c00-368d-11eb-8e2a-f4671ffa86f1.jpg)
-![inCollage_20201116_174612993](https://user-images.githubusercontent.com/54657980/101201542-ed08d600-368d-11eb-8bb1-5589240e50bb.jpg)
